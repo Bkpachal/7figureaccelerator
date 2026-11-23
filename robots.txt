@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /go/
+Sitemap: https://en-7figureaccelerator.vercel.app/sitemap.xml
